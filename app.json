@@ -1,0 +1,12 @@
+{
+  "name": "soulmates",
+  "displayName": "soulmates",
+  "expo": {
+    "name": "soulmates",
+    "slug": "soulmates",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
